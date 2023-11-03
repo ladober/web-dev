@@ -1,0 +1,231 @@
+body {
+  width: 1440px;
+  margin: 0;
+  font-family: Inter;
+}
+
+/* header */
+
+.navbar {
+  width: 1180px;
+  display: flex;
+  font-size: 20px;
+  height: 96px;
+  align-items: center;
+}
+
+.logo {
+  width: 96px;
+  justify-content: space-between;
+  margin-left: 130px;
+}
+
+.navhome {
+  margin-left: 531px;
+}
+
+.navother {
+  margin-left: 121px;
+}
+.active {
+  color: #F50808;
+  text-decoration: none;
+}
+
+.defaultpage {
+  text-decoration: none;
+  color: #2414db;
+  display: inline;
+}
+/* welcome article */
+.welcome {
+  margin-left: 130px;
+  width: 1440px;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+.welcome h1 {
+  font-size: 36px;
+  color: #17326E;
+}
+
+.welcome p {
+  font-size: 20px;
+  color: #090346;
+  width: 780px;
+  height: 48px;
+}
+
+/* cars article */
+.homearticle {
+  background-color: #EBEBF0;
+  width: 1440px;
+  height: 439px;
+}
+
+.retrored {
+  display: inline-block;
+  padding-left: 130px;
+  padding-top: 121px;
+}
+
+.retroblue {
+  display: inline;
+  padding-left: 18px;
+}
+
+.retrogreenish {
+  display: inline;
+  padding-left: 18px;
+}
+
+/* footer */
+.footbar {
+  display: flex;
+  background-color: #19126B;
+  width: 1440px;
+  height: 161px;
+  align-items:center;
+}
+
+.fb {
+  display: inline;
+  padding-left: 130px;
+}
+.ig {
+  display: inline-block;
+  padding-left: 25px;
+}
+
+.yt {
+  display: inline;
+  padding-left: 20px;
+}
+
+.footarticle {
+  display: inline;
+  color: white;
+  width: 282px;
+  line-height: 19px;
+  font-size: 16px;
+  margin-left: 678px;
+}
+
+/* Page 2 */
+
+.about {
+  width:1440px;
+  margin-left: 130px;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+.about h1 {
+  color: #19126B;
+  font-size: 36px;
+}
+
+.about p {
+  color: #090346;
+  width: 780px;
+  height: 120px;
+  font-size: 20px;
+}
+
+/* our history */
+
+.history {
+  display: flex;
+  background-color: #EBEBF0;
+  width: 1440px;
+  height: 516px;
+}
+
+.div1 h1 {
+  color:#19126B;
+  margin-left: 130px;
+  margin-top: 73px;
+  font-size: 36px;
+}
+
+.div1 p {
+  color: #090346;
+  margin-left: 130px;
+  margin-top: 24px;
+  width: 519px;
+  height: 192px;
+}
+
+.div2 {
+  margin-left: 95px;
+  margin-top: 73px;
+}
+
+/* Page 3 CONTACT*/
+
+.contactus {
+  margin-left: 130px;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  width: 780px;
+  height: 92px;
+}
+
+.contactus h1 {
+  color: #19126B;
+  font-size: 36px;
+}
+
+.contactus p {
+  font-size: 20px;
+  color: #090346;
+}
+
+/* contact information */
+
+.contactinfo {
+  display: flex;
+  margin-top: 78px;
+  width: 1440px;
+  height: 546px;
+  background-color: #EBEBF0;
+}
+
+.contactinfo h1 {
+  margin-left: 131px;
+  margin-top: 78px;
+  color: #19126B;
+  font-size: 36px;
+}
+
+.conta {
+  display: block;
+  padding-top: 11px;
+  text-decoration: none;
+  margin-left: 131px;
+  font-size: 20px;
+  color: black;
+}
+.contspan {
+  color: #0D69A9;
+  font-size: 20px;
+}
+
+.contiframe {
+  width: 680px;
+  height: 374px;
+}
+
+.contdiv {
+  margin-left: 177px;
+  margin-top: 78px;
+}
+
+
+
+
+
+
+
+
